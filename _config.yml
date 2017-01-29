@@ -1,2 +1,4 @@
 name: Vincent Wong, Engineer
 markdown: kramdown
+
+theme: jekyll-theme-tactile
