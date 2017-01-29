@@ -1,3 +1,5 @@
 name: Vincent Wong, Engineer
 description: Engineer, Entrepreneur, Web Developer
 markdown: kramdown
+
+theme: jekyll-theme-tactile
