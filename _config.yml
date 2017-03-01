@@ -22,11 +22,18 @@ url: "http://vincetallica.github.io" # the base hostname & protocol for your sit
 twitter_username: vincetallica
 github_username:  vincetallica
 
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
 # Build settings
-markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+#markdown: kramdown
+#theme: minima
+#gems:#
+  #- jekyll-feed
+#exclude:#
+  #- Gemfile
+  #- Gemfile.lock
