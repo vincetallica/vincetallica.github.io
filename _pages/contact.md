@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default #can set as page, but have to define "page" layout
 title: Contact
 permalink: /contact/
 ---
