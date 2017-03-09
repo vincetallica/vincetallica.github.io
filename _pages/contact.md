@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
-
-My e-mail is [vincetallica@gmail.com](mailto:vincetallica@gmail.com).
+For all inquiries, contact me at [vincetallica@gmail.com](mailto:vincetallica@gmail.com).
