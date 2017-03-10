@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-For all inquiries, contact me at [vincetallica@gmail.com](mailto:vincetallica@gmail.com).
+For all business or general inquiries, contact me at [vpakwong@gmail.com](mailto:vpakwong@gmail.com).

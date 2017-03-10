@@ -5,6 +5,6 @@ permalink: /about/
 ---
 
 I'm Vincent Wong, an engineer by day, and a hustler by night.
-
-* A list item
-* Another list item
+Some fun facts about me:
+* I play guitar, piano and drums
+* I have been to Japan, Hong Kong, Taiwan, Italy, Mexico, Cambodia
