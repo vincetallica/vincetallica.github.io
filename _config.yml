@@ -1,8 +1,9 @@
 # Site settings
 title: Let's AdVance!
-email: vincetallica@gmail.com
+email: vpakwong@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Vincent Wong - engineer, entrepreneur, web dev.
+  Vincent is an engineer, entrpreneur, Christ-follower, and a humble learner of all things.
+  Read my blogs to know more about my life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vincetallica.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vincetallica
