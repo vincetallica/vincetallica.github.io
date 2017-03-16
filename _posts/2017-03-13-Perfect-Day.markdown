@@ -7,15 +7,16 @@ categories: Personal
 I have been thinking recently about what's a perfect day for me. Here's what I got:
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+6:30AM - 8AM, wakeup, cleanup, workout in the morning
+8AM - 12PM - start working on work
+12PM - 2PM - lunch and talk with friends/business partners
+2PM - 5:30pm - more work ideally with people (social)
+5:30 PM-10PM home for dinner with family and wife, do work around house
 {% endhighlight %}
 
-Check out my [other blogs][http://vincetallica.github.io/blog] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+How can I achieve this?  Apparently learning to make online income is a good way.
 
-[about me]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Check out my [other blogs][http://vincetallica.github.io/blog] to see more of my life.
+
+[about me]: http://vincetallica.github.io/about
+[business site]:   https://vpakwong.github.io/
