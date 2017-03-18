@@ -10,8 +10,8 @@ I have been thinking recently about what's a perfect day for me. Here's what I g
 6:30AM - 8AM, wakeup, cleanup, workout in the morning
 8AM - 12PM - start working on work
 12PM - 2PM - lunch and talk with friends/business partners
-2PM - 5:30pm - more work ideally with people (social)
-5:30 PM-10PM home for dinner with family and wife, do work around house
+2PM - 5:30PM - more work ideally with people (social)
+5:30 PM - 10 PM home for dinner with family and wife, do work around house
 {% endhighlight %}
 
 How can I achieve this?  Apparently learning to make online income is a good way.
