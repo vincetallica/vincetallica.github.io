@@ -16,7 +16,8 @@ I have been thinking recently about what's a perfect day for me. Here's what I g
 
 How can I achieve this?  Apparently learning to make online income is a good way.
 
-Check out my [other blogs][http://vincetallica.github.io/blog] to see more of my life.
+Check out my other [works][business] and [other writings][blogs]  to see what I do everyday, or click [here][about] to learn more about me.
 
-[about me]: http://vincetallica.github.io/about
-[business site]:   https://vpakwong.github.io/
+[blogs]: http://vincetallica.github.io/blogs
+[about]: http://vincetallica.github.io/about
+[business]:   https://vpakwong.github.io/

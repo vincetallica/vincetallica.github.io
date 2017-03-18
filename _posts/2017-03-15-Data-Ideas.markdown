@@ -6,7 +6,8 @@ categories: Personal
 ---
 What are some startup ideas? I've been thinking.
 
-Check out my [other blogs][http://vincetallica.github.io/blog] to see more of my life.
+Check out my other [works][business] and [other writings][blogs]  to see what I do everyday, or click [here][about] to learn more about me.
 
-[about me]: http://vincetallica.github.io/about
-[business site]:   https://vpakwong.github.io/
+[blogs]: http://vincetallica.github.io/blogs
+[about]: http://vincetallica.github.io/about
+[business]:   https://vpakwong.github.io/
