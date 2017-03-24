@@ -1,19 +1,48 @@
-# Site settings
-title: Let's AdVance!
-email: vpakwong@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Vincent is an engineer, entrpreneur, Christ-follower, and a humble learner of all things.
-  Read my blogs to know more about my life.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://vincetallica.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vincetallica
-github_username:  vincetallica
+# Dependencies
+markdown:         kramdown
+kramdown:
+  extensions: ["tables"]
+
+highlighter:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title: Vincent Wong
+tagline: 'Engineer, Blogging, Entrepreneur'
+url: http://vpakwong.com
+shorturl: vpakwong.com
+
+author:
+  name:           'Vincent Wong'
+  url:            https://twitter.com/vincetallica
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           github.com/vincetallica/vincetallica.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
+
+# Allow URL Redirects:
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+
 # Build Settings
 sass:
   sass_dir: _sass
 include: ['_pages']
-kramdown:
-  input: GFM
+#kramdown:
+#  input: GFM
 # Build settings
 #markdown: kramdown
 #theme: minima
