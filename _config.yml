@@ -8,15 +8,14 @@ highlighter:         true
 # Permalinks
 permalink:        pretty
 
-# Setup
-title:            Joshua Lande
-tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
-url:              http://www.joshualande.com
-shorturl:         joshualande.com
+# SetupJ
+title:            Vincent Wong
+tagline:          'Data Science, Blogging'
+url:              http://vincetallica.github.io
 
 author:
-  name:           'Joshua Lande'
-  url:            https://twitter.com/joshualande
+  name:           'Vincent Wong'
+  url:            https://twitter.com/vincetallica
 
 paginate:         1
 
@@ -24,7 +23,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           github.com/joshualande/joshualande.github.io
+  repo:           github.com/vincetallica/vincetallica.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
