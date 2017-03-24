@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title: Vincent Wong
 tagline: 'Engineer, Blogging, Entrepreneur'
-url: http://vpakwong.com
-shorturl: vpakwong.com
+url: http://vincetallica.github.io
+#shorturl: vpakwong.com
 
 author:
   name:           'Vincent Wong'
