@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![My name is Vincent.](/assets/blueman)
+![My name is Vincent.](/assets/blueman.jpg)
 
 I am a ASIC Design & Verification Engineer who currently work at Istuary Innovation Labs on a Network ASIC edge solution.
 I am fascinated by creative solutions (not necessarily technology) to solve a prevailing problem.
