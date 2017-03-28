@@ -4,7 +4,7 @@ title:  "Financial Optimization - Vpak style!"
 date:   2017-03-27 12:00:00 -0800
 categories: Personal
 ---
-There's a few non-MLM, ethically and moral ways to optimize your finances. A few things I'm cosidering is:
+There's a few non-MLM, ethically and moral ways to optimize your finances. A few things I've done are:
 1. Learn to save and reduce your expenses
   - eat in, cook at home, save lunch for work
   - reduce dinners out to at most 1-2 times a week
