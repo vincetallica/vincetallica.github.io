@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 kramdown:
-  extensions: ["tables"]
+  extensions:     ["tables"]
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +9,7 @@ permalink:        pretty
 # SetupJ
 title:            Vincent Wong
 tagline:          'Engineer, Entrepreneur, Blogging'
-url:              http://vincetallica.github.io
+url:              http://vpakwong.me
 
 author:
   name:           'Vincent Wong'
@@ -27,9 +27,10 @@ github:
 pages_list:
   About: '/about/'
   Archive: '/archive/'
+  Subscribe: '/subscribe/'
 
 # Allow URL Redirects:
 #  * https://help.github.com/articles/redirects-on-github-pages
 gems:
-  #- jekyll-redirect-from
+  - jekyll-redirect-from
   - jekyll-paginate
