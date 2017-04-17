@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I got dumped by a non-existent startup"
+title:  "I'm no longer part of a non-existent startup"
 date:   2017-04-12 12:00:00 -0800
 categories: Personal
 ---
