@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 kramdown:
-  extensions:     ["tables"]
+extensions:       ["tables"]
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +9,7 @@ permalink:        pretty
 # SetupJ
 title:            Vincent Wong
 tagline:          'Engineer, Entrepreneur, Blogging'
-url:              http://vpakwong.me
+url:              http://vincetallica.github.io
 
 author:
   name:           'Vincent Wong'
