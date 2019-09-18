@@ -2,8 +2,8 @@
 layout: page
 title: Project
 ---
-## Project Posts
-Here are my projects:
+
+## Projects I've done:
 
 {% for project in site.project %}
   * {{ project.date | date_to_string }} &raquo; [ {{ project.title }} ]({{ project.url }})
