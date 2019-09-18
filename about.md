@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Moi
+title: About
 ---
 
 ![My name is Vincent.](/assets/blueman.JPG)

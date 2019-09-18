@@ -27,7 +27,7 @@ github:
 pages_list:
   About: '/about/'
   Posts: '/archive/'
-  Projects: '/projects/'
+  Projects: '/project/'
   Subscribe: '/subscribe/'
 
 # Allow URL Redirects:
