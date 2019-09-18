@@ -1,8 +1,7 @@
 ---
 layout: page
-title: project
+title: Project
 ---
-
 ## Project Posts
 Here are my projects:
 
